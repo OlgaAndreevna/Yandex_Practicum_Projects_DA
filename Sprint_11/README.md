@@ -1,5 +1,5 @@
 # **Проект : "Анализ пользовательского взаимодействия с карточками статей Яндекс.Дзен"** 
-[Презентация](https://drive.google.com/file/d/1m6XE9XAM2O0xqTWWXCE6-dJ2kBkq6dby/view)
+[Презентация](https://drive.google.com/drive/folders/1PyNydJM7r0B2xQX9IYL0ReNRJ1syKS6K)
 
 ## **Описание проекта**
 
